@@ -4,3 +4,9 @@
 body {
 font-family: 'Hero New', sans-serif;
 }
+.header {
+    display:flex;
+    border: solid black;
+    justify-content: space-between;
+}
+
