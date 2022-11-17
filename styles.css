@@ -35,21 +35,22 @@ a {
     display:flex;
     justify-content: center;
     align-items: center;
-    padding:100px;
-    gap:30px;
+    padding:80px;
+    gap:25px;
 }
 .main-text{
     display:flex;
     flex-direction: column;
     width: 300px;
     color: #ffffff;
-    gap:10px;
+    gap:5px;
 }
 .signup{
     display:flex;
     background-color: #3882f6;
     color:#feffff;
     font-weight: 800;
+    font-size: 18px;
     justify-content: center;
     align-items: center;
     width: 100px;
