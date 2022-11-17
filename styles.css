@@ -76,3 +76,7 @@ a {
     width: 300px;
     height:300px;
 }
+.mid-container, .mid-title, item-1, .tem-2, .item-3, .item-4 {
+    justify-content: center;
+    align-items: center;
+}
