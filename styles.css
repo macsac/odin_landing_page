@@ -68,15 +68,24 @@ a {
 .mid-container, .mid-title {
     display: flex;
 }
-.item-1, .tem-2, .item-3, .item-4{
+.item-1, .item-2, .item-3, .item-4{
     display: flex;
     flex-direction: column;
 }
 .mid-container img{
     width: 300px;
     height:300px;
+    
 }
-.mid-container, .mid-title, item-1, .tem-2, .item-3, .item-4 {
+.mid-container, .mid-title, .item-1, .item-2, .item-3, .item-4 {
     justify-content: center;
     align-items: center;
+    gap:20px;
+}
+.img-text{
+    display: flex;
+    width:300px;
+    flex-wrap: wrap;
+    justify-self: center;
+    justify-content: center;
 }
