@@ -7,15 +7,19 @@ font-family: 'Hero New', sans-serif;
 .header {
     background-color: #1f2937;
     display:flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    padding:25px
 }
+.links {
+    display: flex;
+    gap:10px;
+}
+
+
 a {
     text-decoration: none;
     color: #c0c0c0;
 }
 .logo {
     color: #feffff
-}
-.links {
-    
 }
