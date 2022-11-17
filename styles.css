@@ -3,23 +3,25 @@
 
 body {
 font-family: 'Hero New', sans-serif;
+padding: 0;
+margin:0;
 }
 .header {
-    background-color: #1f2937;
+    background: #1f2937;
     display:flex;
     justify-content: space-around;
-    padding:25px
+    padding:25px;
 }
 .links {
     display: flex;
     gap:10px;
 }
-
-
 a {
     text-decoration: none;
     color: #c0c0c0;
 }
 .logo {
-    color: #feffff
+    color: #feffff;
+    font-size: 20px;
+    font-weight: 800;
 }
