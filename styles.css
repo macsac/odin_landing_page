@@ -67,6 +67,7 @@ a {
 }
 .mid-container, .mid-title {
     display: flex;
+    padding: 25px;
 }
 .item-1, .item-2, .item-3, .item-4{
     display: flex;
@@ -75,6 +76,7 @@ a {
 .mid-container img{
     width: 300px;
     height:300px;
+    border-radius: 25px;
     
 }
 .mid-container, .mid-title, .item-1, .item-2, .item-3, .item-4 {
@@ -86,6 +88,5 @@ a {
     display: flex;
     width:300px;
     flex-wrap: wrap;
-    justify-self: center;
-    justify-content: center;
 }
+ 
