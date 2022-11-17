@@ -54,3 +54,8 @@ a {
     width: 100px;
     margin-left:100px;
 }
+.main-title{
+    font:800;
+    font-size: 48px;
+    color:#f9f8fa;
+}
