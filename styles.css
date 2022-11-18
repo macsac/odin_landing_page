@@ -99,12 +99,15 @@ a {
 .bottom-container {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
     background-color: #e5e7eb;
 }
 .quote{
     display: flex;
-    font-style: italic;
+    width:500px;
+    font-style: light italic;
     font-size: 36px;
     color:1f2937;
+    flex-wrap: wrap;
+    justify-self: center;
+    align-self: center;
 }
