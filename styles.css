@@ -111,3 +111,8 @@ a {
     justify-self: center;
     align-self: center;
 }
+.quote-author{
+    display: flex;
+    font-weight: 800;
+    font-size:16px;
+}
