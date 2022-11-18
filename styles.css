@@ -88,6 +88,9 @@ a {
 .img-text{
     display: flex;
     width:300px;
-    flex-wrap: wrap;
 }
- 
+.mid-title {
+    color:#1f2937;
+    font-weight: 800;
+    font-size: 36px;
+}
