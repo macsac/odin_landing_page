@@ -132,8 +132,19 @@ a {
     background-color: #3882f6;
     color: #f9f8fa;
     padding: 30px;
+    font-size: 18px;
 }
 .footer-text{
     flex-direction: column;
 }
-
+.footer-title{
+    font-weight: 800;
+    
+}
+.footer-button{
+    font-size: 18px;
+    background-color: #3882f6;
+    color:#f9f8fa;
+    border-color: #f9f8fa;
+    border-radius: 10px;
+}
