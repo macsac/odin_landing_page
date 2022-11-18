@@ -107,7 +107,7 @@ a {
 }
 .quote{
     display: flex;
-    width:700px;
+    width:850px;
     font-style: italic;
     font-weight: 290;
     font-size: 36px;
@@ -119,7 +119,6 @@ a {
 .quote-author{
     display: flex;
     font-weight: 800;
-    font-size:16px;
+    font-size:20px;
     padding-left:500px;
-    
 }
