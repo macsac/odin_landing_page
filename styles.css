@@ -133,3 +133,7 @@ a {
     color: #f9f8fa;
     padding: 30px;
 }
+.footer-text{
+    flex-direction: column;
+}
+
