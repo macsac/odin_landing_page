@@ -123,3 +123,13 @@ a {
     font-size:20px;
     padding-left:500px;
 }
+.footer{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width:1200px;
+    margin: 100px 600px;
+    background-color: #3882f6;
+    color: #f9f8fa;
+    padding: 30px;
+}
