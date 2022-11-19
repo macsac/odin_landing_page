@@ -21,10 +21,9 @@ a {
     color: #e5e7eb;
 }
 
-.logo {
-    color: #f9f8fa;
-    font-size: 20px;
-    font-weight: 800;
+.logo{
+    width: 2%;
+    height: auto;
 }
 .main-img{
     width: 500px;
