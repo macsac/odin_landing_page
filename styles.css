@@ -172,3 +172,7 @@ a {
     width: 600px;
     height: 300px;
 }
+.img-text:hover{
+    text-decoration: underline;
+    color:aquamarine;
+}
