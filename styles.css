@@ -149,7 +149,7 @@ a {
     justify-content: space-around;
     align-items: center;
     width:1200px;
-    margin: 100px 600px;
+    margin: 100px auto;
     background-color: #3882f6;
     color: #f9f8fa;
     padding: 30px;
